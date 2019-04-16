@@ -1,8 +1,8 @@
-# Phluence
+# Phluence :: github group
 
-> **THE _INIT_ AGENCY**
+> **THE AGENCY**
 
-one of the _growing_ sectors
+
 
 
 
