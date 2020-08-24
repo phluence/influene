@@ -1,8 +1,5 @@
-# Phluence :: github group
+# Phluence
 
 > **THE AGENCY**
-
-
-
 
 
